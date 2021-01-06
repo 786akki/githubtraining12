@@ -6,3 +6,6 @@ vibrant
 dark mode
 video calls
 
+payment
+right 
+wrong
